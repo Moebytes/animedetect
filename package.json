@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Moebits/animedetect"
+    "url": "https://github.com/Moebytes/animedetect"
   },
   "keywords": [
     "anime",
     "detection",
     "openCV"
   ],
-  "author": "Moebits",
+  "author": "Moebytes",
   "license": "MIT",
   "devDependencies": {
     "@types/color": "^3.0.1",
