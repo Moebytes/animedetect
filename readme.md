@@ -1,6 +1,6 @@
 <div align="left">
   <p>
-    <a href="https://moebits.github.io/animedetect"><img src="https://raw.githubusercontent.com/Moebits/animedetect/master/assets/animedetectlogo.png" width="600" /></a>
+    <a href="https://moebytes.github.io/animedetect"><img src="https://raw.githubusercontent.com/Moebytes/animedetect/master/assets/animedetectlogo.png" width="600" /></a>
   </p>
   <p>
     <a href="https://nodei.co/npm/animedetect/"><img src="https://nodei.co/npm/animedetect.png" /></a>
@@ -89,5 +89,5 @@ export interface AnimeDetectResult {
 
 <details>
 <summary><a href="https://www.pixiv.net/en/artworks/67991994">Source</a></summary>
-<img src="https://raw.githubusercontent.com/Moebits/animedetect/master/assets/example.png"/>
+<img src="https://raw.githubusercontent.com/Moebytes/animedetect/master/assets/example.png"/>
 </details>
